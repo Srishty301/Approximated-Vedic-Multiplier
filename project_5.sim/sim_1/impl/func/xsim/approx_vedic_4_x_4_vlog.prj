@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"approx_vedic_4_x_4_func_impl.v" \
+
+# Do not sort compile order
+nosort

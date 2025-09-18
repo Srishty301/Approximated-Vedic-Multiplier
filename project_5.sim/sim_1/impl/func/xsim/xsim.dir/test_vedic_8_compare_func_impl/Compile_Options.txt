@@ -1,0 +1,1 @@
+-wto "b74e93eff0474b0b882f5300c9c0ec0e" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "secureip" --snapshot "test_vedic_8_compare_func_impl" "xil_defaultlib.test_vedic_8_compare" "xil_defaultlib.glbl" -log "elaborate.log" 

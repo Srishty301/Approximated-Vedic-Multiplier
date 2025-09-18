@@ -1,0 +1,7 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/srish/project_5/project_5.sim/sim_1/impl/func/xsim/test_vedic_8_compare_func_impl.v,1758212922,verilog,,C:/Users/srish/project_5/project_5.srcs/sources_1/new/vedic.v,,glbl,,,,,,,,
+C:/Users/srish/project_5/project_5.srcs/sim_1/new/tb.v,1758211923,verilog,,,,test_vedic_8_compare,,,,,,,,
+C:/Users/srish/project_5/project_5.srcs/sources_1/new/vedic.v,1758212497,verilog,,C:/Users/srish/project_5/project_5.srcs/sim_1/new/tb.v,,add_12_bit;add_4_bit;add_6_bit;add_8_bit;approx_vedic_2_x_2;approx_vedic_4_x_4;approx_vedic_8X8;ha;oloca12;oloca4;oloca6;oloca8;vedic_2_x_2;vedic_4_x_4;vedic_8X8,,,,,,,,

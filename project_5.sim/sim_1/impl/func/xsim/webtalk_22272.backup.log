@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Sep 18 21:54:57 2025
+# Process ID: 22272
+# Current directory: C:/Users/srish/project_5/project_5.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/srish/project_5/project_5.sim/sim_1/impl/func/xsim/xsim.dir/approx_vedic_4_x_4_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/srish/project_5/project_5.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/Users/srish/project_5/project_5.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/srish/project_5/project_5.sim/sim_1/impl/func/xsim/xsim.dir/approx_vedic_4_x_4_func_impl/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Thu Sep 18 21:54:59 2025...

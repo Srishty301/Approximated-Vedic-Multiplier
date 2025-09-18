@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"test_vedic_8_compare_func_impl.v" \
+"../../../../../project_5.srcs/sources_1/new/vedic.v" \
+"../../../../../project_5.srcs/sim_1/new/tb.v" \
+
+# Do not sort compile order
+nosort
