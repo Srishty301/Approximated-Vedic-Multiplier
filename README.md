@@ -87,3 +87,20 @@ OLOCA-Approximate-Vedic-Multiplier/
 │
 └── testbench/                # Testbench for simulation
     └── testbench.v
+```
+---
+
+### Schematic 
+<img width="769" height="294" alt="image" src="https://github.com/user-attachments/assets/1372052f-cc4b-41ba-ae2c-9f01e64e896c" />
+
+---
+
+### Waveform Simulation
+<img width="786" height="421" alt="image" src="https://github.com/user-attachments/assets/4fd7ca95-792f-401e-b871-5b33082fcbfb" />
+
+
+---
+
+### Performance Metrics
+<img width="804" height="263" alt="image" src="https://github.com/user-attachments/assets/5dea2130-f320-4899-9d6b-0e355fbc2cc0" />
+
